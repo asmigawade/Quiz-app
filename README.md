@@ -53,14 +53,10 @@ This is a React-based trivia quiz app that dynamically fetches multiple-choice q
 
 This app uses the [Open Trivia Database API](https://opentdb.com/api_config.php) to fetch trivia questions.
 
-## Contributing
+## Userflow
+![image](https://github.com/user-attachments/assets/4d48e0e0-2b30-4d46-a84d-e06cdaf762fe)
 
-Contributions are welcome! Feel free to open an issue or submit a pull request.
+![image](https://github.com/user-attachments/assets/f9358dd2-2755-4419-b656-a120f86ffbce)
 
-## License
+![image](https://github.com/user-attachments/assets/af5c52a3-f1b2-4c1a-839a-0a312ec09492)
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
-Replace `yourusername` with your GitHub username when pasting into your repository.
